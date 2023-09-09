@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #201e1f;
+  padding: 0;
+}
+#root {
+  padding: 0;
+}
+
+::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+}
